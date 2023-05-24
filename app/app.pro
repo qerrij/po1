@@ -5,11 +5,9 @@ CONFIG -= qt
 
 SOURCES += main.c \
     kvadrat.c \
-    myfunc.c
 
 HEADERS += \
     kvadrat.h \
-    myfunc.h
 
 QMAKE_CFLAGS += -Wall -Wextra -Werror
 
