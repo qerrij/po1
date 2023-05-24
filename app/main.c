@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-#include "myfunc.h"
 #include "kvadrat.h"
 
 int main()
@@ -29,5 +28,5 @@ int main()
 //        printf("%.2f %.2f\n",x1,x2);
 //    else
 //        printf("Err\n");
-    return myfunc(2);
+    return 0;
 }
